@@ -1,3 +1,4 @@
 1. Make list
 2. Read list
 3. Finish list
+4. Fix bug
