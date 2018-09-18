@@ -2,3 +2,5 @@
 2. Read list
 3. Finish list
 4. Fix bug
+5. Find the person who stole the biscuits
+6. Make sure they steal no more biscuits
